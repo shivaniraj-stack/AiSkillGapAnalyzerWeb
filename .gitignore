@@ -1,0 +1,35 @@
+# Maven build output
+target/
+*.war
+*.ear
+*.class
+
+# NetBeans IDE
+.nb-cache/
+nbproject/private/
+
+# Eclipse IDE
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Visual Studio Code
+.vscode/
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Sensitive credentials & environment keys
+*.env
+secrets.properties
+*.zip
