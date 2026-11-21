@@ -239,3 +239,22 @@ AiSkillGapAnalyzerWeb/
 
 4. **How are duplicate skills prevented?**
    - `SkillDAO.addSkill()` performs an upsert check: if a student has already added a skill, it updates their proficiency level instead of inserting a duplicate row.
+
+
+
+
+
+
+
+---
+
+## Screenshots
+
+### Home Page
+![Home Page](skill 1.png)
+
+### Skill Gap Analysis
+![Skill Gap Analysis](skill 2.png)
+
+### Career Roadmap
+![Career Roadmap](skill 3.png)
